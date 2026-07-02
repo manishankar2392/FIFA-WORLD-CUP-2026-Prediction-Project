@@ -271,47 +271,6 @@ Insights & Visualization
 
 ---
 
-# 📷 Dashboard Preview
-
-## Live Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
-## Historical Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
-## Top 32 Qualification Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
-# 📁 Repository Structure
-
-```
-FIFA-World-Cup-2026-PowerBI/
-
-│
-├── Dashboard.pbix
-├── README.md
-├── Dataset/
-│      ├── FIFA Dataset.xlsx
-│
-├── Images/
-│      ├── Live Dashboard.png
-│      ├── Historical Dashboard.png
-│      ├── Prediction Dashboard.png
-│
-└── Assets/
-```
-
----
-
 # 🚀 Skills Demonstrated
 
 - Power BI
@@ -342,18 +301,6 @@ This project helped strengthen my knowledge in:
 - Performance Optimization
 - Advanced DAX
 - Power Query Transformations
-
----
-
-# 📬 Contact
-
-**Mani Shankar K**
-
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: https://linkedin.com/in/your-profile
-
-💻 GitHub: https://github.com/yourusername
 
 ---
 
