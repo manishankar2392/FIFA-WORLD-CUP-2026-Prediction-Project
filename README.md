@@ -301,6 +301,17 @@ This project helped strengthen my knowledge in:
 - Performance Optimization
 - Advanced DAX
 - Power Query Transformations
+---
+
+# 📬 Contact
+
+**VENKATA MANI SHANKAR**
+
+📧 Email: komaralamanishankar2392@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/k-venkata-mani-shankar
+
+💻 GitHub: https://github.com/manishankar2392
 
 ---
 
